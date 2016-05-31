@@ -1,0 +1,9 @@
+C:\MARCEL\POLYGON\PR\ComPort_CS\Serial\Serial\bin\Debug\Serial.exe
+C:\MARCEL\POLYGON\PR\ComPort_CS\Serial\Serial\bin\Debug\Serial.pdb
+C:\MARCEL\POLYGON\PR\ComPort_CS\Serial\Serial\obj\Debug\Serial.Form1.resources
+C:\MARCEL\POLYGON\PR\ComPort_CS\Serial\Serial\obj\Debug\Serial.Properties.Resources.resources
+C:\MARCEL\POLYGON\PR\ComPort_CS\Serial\Serial\obj\Debug\Serial.csproj.GenerateResource.Cache
+C:\MARCEL\POLYGON\PR\ComPort_CS\Serial\Serial\obj\Debug\Serial.exe
+C:\MARCEL\POLYGON\PR\ComPort_CS\Serial\Serial\obj\Debug\Serial.pdb
+C:\MARCEL\POLYGON\PR\ComPort_CS\Serial2\Serial\obj\Debug\Serial.exe
+C:\MARCEL\POLYGON\PR\ComPort_CS\Serial2\Serial\obj\Debug\Serial.pdb
